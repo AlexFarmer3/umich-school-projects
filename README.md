@@ -1,5 +1,5 @@
 # School Projects
-RECRUTERS: Please email me at alexfarm@umich.edu for access to all of my school projects, I can't publicly share my projects due to possible honor code violations.
+RECRUITERS: Please email me at alexfarm@umich.edu for access to all of my school projects, I can't publicly share my projects due to possible honor code violations.
 
 I have developed the following projects during the fall '22 semester, in my Programming and Intro Data Structures class.
 
